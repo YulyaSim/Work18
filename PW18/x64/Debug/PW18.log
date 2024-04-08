@@ -1,0 +1,4 @@
+﻿  PW18.cpp
+C:\PracticalWork4\PracticalWork18\PW18\PW18.cpp(41,9): warning C4101: j: неиспользованная локальная переменная
+C:\PracticalWork4\PracticalWork18\PW18\PW18.cpp(41,12): warning C4101: temp: неиспользованная локальная переменная
+  PW18.vcxproj -> C:\PracticalWork4\PracticalWork18\PW18\x64\Debug\PW18.exe
